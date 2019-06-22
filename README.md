@@ -1,3 +1,3 @@
-# JS_Good_Parctices
+# JS Good Parctices
 
 JavaScript常用小技巧
