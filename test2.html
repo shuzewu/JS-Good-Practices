@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    const defaults = {
+      person: {
+        name: 'Javascript',
+        price: '99',
+      },
+
+      car: {
+        sign: 'bmw',
+        country: 'france',
+      }
+    }
+
+    let config = {
+      person: {
+        name: 'szw',
+      }
+    }
+
+    const addconfig = Object.assign({}, defaults, config)
+    console.log('6:00:55 PM', addconfig)
+
+  </script>
+</body>
+</html>
