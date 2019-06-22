@@ -2,11 +2,21 @@
 
 JavaScript常用小技巧
 
-[google][2]
 
-[baidu][1] 
 
-[简书][3]
+
+
+
+
+
+
+
+
+
+
+
+
+常用链接：&emsp;&emsp;[google][2] &emsp;&emsp;[baidu][1] &emsp;&emsp;[简书][3]
 
 
 
