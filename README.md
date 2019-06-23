@@ -10,6 +10,12 @@ JavaScript常用小技巧
 
 
 
+### 理解系列
+
+1.[Object.assign][5]
+
+
+
 
 
 
@@ -27,3 +33,4 @@ JavaScript常用小技巧
 [3]:https://www.jianshu.com/u/38cda4df3e4c
 [4]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/%E4%BA%A4%E6%8D%A2%E4%B8%A4%E4%B8%AA%E5%8F%98%E9%87%8F.md
 
+[5]:

@@ -23,7 +23,7 @@ const obj = Object.create({foo: 1}, { // foo 是个继承属性
     value: 2, // bar 是个不可枚举属性
   },
   baz: {
-		value: 3,
+    value: 3,
     enumerable: true // baz 是个自身并且可枚举的属性
   }
 })
@@ -51,7 +51,7 @@ const source2 = {
   },
 }
 
-const book = Object.assign({}, source1, source2); 
-console.log(book); // {name: 'Javascript'}
+const bookObj = Object.assign({}, source1, source2); 
+console.log(bookObj.book); // {name: 'Javascript'}
 ```
 
