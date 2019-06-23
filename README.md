@@ -34,4 +34,3 @@ JavaScript常用小技巧
 [4]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/%E4%BA%A4%E6%8D%A2%E4%B8%A4%E4%B8%AA%E5%8F%98%E9%87%8F.md
 [5]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/API%20%E4%BB%8B%E7%BB%8D/Object.assign.md
 [6]: https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/API%20%E4%BB%8B%E7%BB%8D/%E7%AE%80%E6%B4%81%E6%96%B9%E6%B3%95.md
-
