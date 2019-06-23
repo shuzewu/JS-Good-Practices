@@ -10,6 +10,8 @@ JavaScript常用小技巧
 
 2.[检测未声明变量][7]
 
+3.[默认值赋值][11]
+
 
 
 ### 理解系列
@@ -48,4 +50,5 @@ JavaScript常用小技巧
 [8]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E5%BF%83%E5%BE%97%E7%B3%BB%E5%88%97/let%E5%A3%B0%E6%98%8E.md
 [9]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E7%B3%BB%E5%88%97/for%E5%BE%AA%E7%8E%AF%E7%9A%84let.md
 [10]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E7%B3%BB%E5%88%97/%E5%B8%B8%E9%87%8F.md
+[11]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E7%B3%BB%E5%88%97/%E9%BB%98%E8%AE%A4%E5%80%BC%E8%B5%8B%E5%80%BC.md
 
