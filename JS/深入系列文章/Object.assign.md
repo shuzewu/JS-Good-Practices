@@ -40,14 +40,14 @@ console.log(copy); // {baz: 3}
 const source1 = {
   name: 'source1',
   book: {
-		name: 'Java',
+    name: 'Java',
     age: 10,
   },
 };
 const source2 = {
   name: 'source2',
   book: {
-		name: 'Javascript',
+    name: 'Javascript',
   },
 }
 
