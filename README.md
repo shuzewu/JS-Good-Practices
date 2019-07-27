@@ -64,7 +64,11 @@ JavaScript常用小技巧
 [201]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E7%B3%BB%E5%88%97/Object.assign.md	"Object.assign"
 [202]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E7%B3%BB%E5%88%97/%E7%AE%80%E6%B4%81%E6%96%B9%E6%B3%95.md	"简洁方法"
 [203]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E7%B3%BB%E5%88%97/for%E5%BE%AA%E7%8E%AF%E7%9A%84let.md	"for循环中的let"
-[204]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E7%B3%BB%E5%88%97/%E7%AE%80%E6%B4%81%E6%96%B9%E6%B3%95.md	"简洁方法"
+[204]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E7%B3%BB%E5%88%97/%E5%B8%B8%E9%87%8F.md	"常量"
+
+
+
+
 
 
 
