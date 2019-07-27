@@ -34,6 +34,10 @@ JavaScript常用小技巧
 
 
 
+### 专题系列
+
+1.[JSON.parse报错场景][401]
+
 
 
 常用链接：[google][02] &emsp;&emsp;[baidu][01] &emsp;&emsp;[简书][03]
@@ -71,3 +75,12 @@ JavaScript常用小技巧
 
 
 [301]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E5%BF%83%E5%BE%97%E7%B3%BB%E5%88%97/let%E5%A3%B0%E6%98%8E.md	"let声明"
+
+
+
+
+
+
+
+[401]:https://github.com/shuzewu/JS-Good-Practices/blob/master/JS/%E4%B8%93%E9%A2%98%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/JSON_parse_scenes.md	"JSON.parse解析失败"
+
